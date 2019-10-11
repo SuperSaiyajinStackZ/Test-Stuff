@@ -45,7 +45,6 @@ namespace Gui
 {
 	void target(gfxScreen_t t);
 	Result initialize();
-	void DrawBase(void);
 	Result deinitialize();
 
 	// Screen and MainLoops.
