@@ -1,4 +1,4 @@
-# Text-Stuff
-Reimplementation of the Text Stuff for LeafEdit &amp; Universal-Manager. [Mainly to test it.]
+# Test Stuff
+Some Testing stuff for NDS Homebrews and 3DS Homebrews.
 
-Because I don't want to break the current Text Stuff on it, I decided to do another Repo for it for Testing on my Main Profile.
+I did this Repo, because I want to test some stuff, before I implement it into real Projects.
